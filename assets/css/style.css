@@ -4,6 +4,7 @@
 /* Components */
 @import './header.css';
 @import './buttons.css';
+@import './main.css';
 
 /* Reset Css*/
 *{
@@ -11,9 +12,10 @@
   padding: 0;
   border: 0;
   font-size: 100%;
+  font-weight: 300;
+  font-family: 'Source Sans Pro', sans-serif;
   vertical-align: baseline;
   text-decoration: none;
-  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .container {
